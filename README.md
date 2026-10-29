@@ -10,7 +10,7 @@
 
 ### Core Stack
 
-- Languages & Runtimes: TypeScript, Node.js, Python.
+- Languages: TypeScript, Javascript, Python, Java.
 - Frameworks & Protocols: NestJS, Express, Apollo GraphQL, REST.
 - Databases & Queues: PostgreSQL, Redis, BullMQ, TypeORM, Prisma.
 - Tooling & Infrastructure: Docker, Docker Compose, Linux, Git, Jest.
